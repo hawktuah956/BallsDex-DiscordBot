@@ -3,6 +3,14 @@
 Thanks for contributing to this repo! This is a short guide to set you up for running Ballsdex in
 a development environment, with some tips on the code structure.
 
+
+
+
+
+
+
+
+
 ## Setting up the environment
 
 ### PostgreSQL and Redis
